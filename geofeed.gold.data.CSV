@@ -12,9 +12,10 @@
 200.125.191.112/24,VE,VE-A,Caracas,1050,
 38.87.252.0/24,PA,PA-8,Panama,0801,
 38.87.222.0/24,AR,AR,Buenos Aires,
-38.87.221.0/24,MX,MX-CMX,Mexico City,06000,
+38.87.221.0/24,MX,MX-CMX,Mexico City,
 38.87.217.0/24,DO,DO,Santo Domingo,
 186.96.78.0/24,VE,VE-A,Caracas,1050,
 186.96.76.0/24,VE,VE-A,Caracas,1050,
-173.0.112.0/24,MX,MX-CMX,Mexico City,06000,
+173.0.112.0/24,MX,MX-CMX,Mexico City,
+
 
